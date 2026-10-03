@@ -11,6 +11,7 @@ This documentation suite provides architectural insights, detailed workflow diag
 | Document | Focus Area | Description |
 | :--- | :--- | :--- |
 | **[Architecture Overview](architecture.md)** | System Design | Detailed architecture diagrams, layer breakdowns, and technology choices. |
+| **[Data Flow Diagrams (DFD 0/1/2)](data_flow_diagrams.md)** | Systems Analysis | Formal Level 0, Level 1, and Level 2 Data Flow Diagrams with data store and flow catalogs. |
 | **[Workflow & State Machine](workflow.md)** | Agent Logic | Complete Mermaid diagrams illustrating the ReAct loop, ingestion sequence, state transitions, and decision trees. |
 | **[Data Pipeline & Scraping](data_pipeline.md)** | Ingestion & Storage | Next.js REST API extraction, PDF parsing, text chunking, and ChromaDB vector indexing. |
 | **[Agent & Prompt Engineering](agent_and_prompt_engineering.md)** | Agent Intelligence | LangChain/LangGraph ReAct setup, system prompt grounding rules, and cross-lingual canonical query mapping. |

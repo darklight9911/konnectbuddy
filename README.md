@@ -27,6 +27,7 @@ Designed for **DIU Konnect (KonnectBuddy)** to answer student and alumni queries
 For detailed architectural specifications, end-to-end Mermaid workflow diagrams, and technical deep-dives, explore the [`docs/`](docs/README.md) directory:
 
 * **[Architecture Overview](docs/architecture.md)**: System topology, ingestion, vector store, and reasoning layers.
+* **[Data Flow Diagrams (DFD 0/1/2)](docs/data_flow_diagrams.md)**: Formal Level 0, Level 1, and Level 2 Data Flow Diagrams with flow catalog.
 * **[Agent & System Workflows](docs/workflow.md)**: Mermaid sequence diagrams, ReAct execution loops, and state machine graphs.
 * **[Data Pipeline & Scraping](docs/data_pipeline.md)**: Handling Next.js backend APIs, in-memory PDF extraction, and text chunking.
 * **[Agent & Prompt Engineering](docs/agent_and_prompt_engineering.md)**: Dual LangChain/LangGraph support, grounding rules, and cross-lingual translation.
